@@ -48,6 +48,8 @@ Repeat this procedure for any other fields
 
 ## Configure your Screen
 
+Create a Screen Scheme to associate your screen  and fields:
+
 
 
 ## Create your Workflow
