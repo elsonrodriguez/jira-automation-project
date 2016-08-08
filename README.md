@@ -1,5 +1,5 @@
-
-This guide will help you create a Jira project meant to be used by automation.
+# Automation via Jira
+Most common Jira workflows and screens do not lend themselves to the types of simple inputs and outputs that define most automation. This guide will help you create a Jira project that is easily parsable by humans and computers!
 
 ## Create a Project
 
@@ -19,6 +19,12 @@ Enter your project name, in this example we are creating a Deployment workflow
 Click submit
 
 ## Create your Issue Type
+
+Go to the Issues Administration page
+
+Click on "Add Issue Type"
+
+Enter the name of the task type, in this case this is a Deployment
 
 ## Create your Fields
 
