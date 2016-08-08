@@ -34,6 +34,18 @@ Associate the scheme with your project:
 
 ## Create your Fields
 
+We must make a small detour here to make setting fields up easier. We're going to create a Screen for our project.
+
+Next, create a single line text field:
+
+And we name it "Container Image"
+
+Associate the field with the screen for our project:
+
+
+
+
+
 ## Create your Screen
 
 ## Create your Workflow
