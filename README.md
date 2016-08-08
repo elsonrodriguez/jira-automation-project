@@ -1,6 +1,8 @@
 # Automation via Jira
 Most common Jira workflows and screens do not lend themselves to the types of simple inputs and outputs that define most automation. This guide will help you create a Jira project that is easily parsable by humans and computers!
 
+In this example, we will be creating a Jira project that can interact with a container image deployer.
+
 ## Create a Project
 
 Create a new project From the administration page
@@ -42,11 +44,11 @@ And we name it "Container Image"
 
 Associate the field with the screen for our project:
 
+Repeat this procedure for any other fields
+
+## Configure your Screen
 
 
-
-
-## Create your Screen
 
 ## Create your Workflow
 
